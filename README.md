@@ -13,4 +13,4 @@
 ### External Resources
 1. [Solidity Language Org.](https://soliditylang.org/about/)
 2. [Solidity Tutorial by TutorialsPoint](https://www.tutorialspoint.com/solidity/index.htm)
-3. 
+3. [Learn X in Y minutes](https://learnxinyminutes.com/docs/solidity/)
