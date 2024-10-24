@@ -10,3 +10,7 @@
 - Anyone can use this repository to learn, with external resources included as supplement.
 - Any collaboration is much also welcome
 - Cheers !!!
+### External Resources
+1. [Solidity Language Org.](https://soliditylang.org/about/)
+2. [Solidity Tutorial by TutorialsPoint](https://www.tutorialspoint.com/solidity/index.htm)
+3. 
