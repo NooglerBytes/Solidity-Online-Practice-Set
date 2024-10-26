@@ -16,6 +16,6 @@
 2. [Solidity Tutorial by TutorialsPoint](https://www.tutorialspoint.com/solidity/index.htm)
 3. [Learn X in Y minutes](https://learnxinyminutes.com/docs/solidity/)
 4. [The Best Way to Learn Solidity for Free (2024) by Alchemy](https://www.alchemy.com/overviews/learn-solidity)
-5. Learn how to use Solidity by Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/blockchain-learning-solidity/)
+5. [Learn how to use Solidity by Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/blockchain-learning-solidity/)
 6. [Learn Solidity with online courses and programs by edX](https://www.edx.org/learn/solidity)]
 7. [What is Blockchain? by Oracle](https://www.oracle.com/ke/blockchain/what-is-blockchain/)
